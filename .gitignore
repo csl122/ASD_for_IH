@@ -17,7 +17,7 @@ datasets/*
 *.state
 *.pth
 *.pt
-models/*
+# models/*
 
 *.DS_Store
 .idea
